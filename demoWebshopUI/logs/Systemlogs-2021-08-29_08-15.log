@@ -1,0 +1,15 @@
+20:15:53.447 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+20:15:53.461 [main] INFO  keywords.CommonActionKeywords - *********************** Default suite Execution Started **********************
+20:15:53.479 [main] INFO  keywords.CommonActionKeywords - Sun Aug 29 20:15:52 IST 2021
+20:15:53.480 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+20:15:53.483 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_EMAIL from testdata.properties
+20:15:53.484 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_PASSWORD from testdata.properties
+20:15:53.494 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Browser from environment.properties
+20:15:53.495 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+20:15:53.496 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Implicit_Wait_Time from environment.properties
+20:15:53.497 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Explicit_Wait_Time from environment.properties
+20:15:53.498 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: userName from environment.properties
+20:15:53.499 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: passWord from environment.properties
+20:15:53.500 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: emailId from environment.properties
+20:15:53.501 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+20:15:53.502 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: App_Direct_URL from environment.properties

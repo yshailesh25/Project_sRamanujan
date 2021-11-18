@@ -1,0 +1,26 @@
+17:13:09.931 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+17:13:09.946 [main] INFO  keywords.CommonActionKeywords - *********************** Default suite Execution Started **********************
+17:13:09.963 [main] INFO  keywords.CommonActionKeywords - Sun Aug 22 17:13:08 IST 2021
+17:13:09.964 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+17:13:09.967 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_EMAIL from testdata.properties
+17:13:09.968 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_PASSWORD from testdata.properties
+17:13:09.969 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Browser from environment.properties
+17:13:09.970 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+17:13:09.971 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Implicit_Wait_Time from environment.properties
+17:13:09.972 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Explicit_Wait_Time from environment.properties
+17:13:09.973 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: userName from environment.properties
+17:13:09.974 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: passWord from environment.properties
+17:13:09.975 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: emailId from environment.properties
+17:13:09.976 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+17:13:09.977 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: App_Direct_URL from environment.properties
+17:13:09.978 [main] INFO  demoWebShop.Base - getProperties-->loading property: Screenshot_Archive_Days from environment.properties
+17:13:13.027 [main] INFO  keywords.CommonActionKeywords - Driver initiaized successfully
+17:13:13.056 [main] INFO  keywords.CommonActionKeywords - Closing all the browsers
+17:13:13.443 [main] INFO  utilities.Log - Application closed successfully
+17:13:13.452 [main] INFO  demoWebShop.Base - getProperties-->loading property: TestReport_Folder from environment.properties
+17:13:13.787 [main] INFO  keywords.CommonActionKeywords - Test Cases Passed: [ResultMap map=[]]
+17:13:13.789 [main] INFO  keywords.CommonActionKeywords - Test Cases Failed: [ResultMap map=[]]
+17:13:13.790 [main] INFO  keywords.CommonActionKeywords - *****************************************************************************************************
+17:13:13.792 [main] INFO  keywords.CommonActionKeywords - Test Case execution report available at: null
+17:13:13.793 [main] INFO  keywords.CommonActionKeywords - Execution completed: 2021-08-22T17:13:13.488+0530
+17:13:13.794 [main] INFO  keywords.CommonActionKeywords - *****************************************************************************************************

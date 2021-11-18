@@ -1,0 +1,53 @@
+22:02:05.391 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+22:02:05.405 [main] INFO  keywords.CommonActionKeywords - *********************** Default suite Execution Started **********************
+22:02:05.422 [main] INFO  keywords.CommonActionKeywords - Sun Sep 05 22:02:03 IST 2021
+22:02:05.423 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+22:02:05.449 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_EMAIL from testdata.properties
+22:02:05.456 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_PASSWORD from testdata.properties
+22:02:05.457 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Browser from environment.properties
+22:02:05.465 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+22:02:05.466 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Implicit_Wait_Time from environment.properties
+22:02:05.467 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Explicit_Wait_Time from environment.properties
+22:02:05.468 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: userName from environment.properties
+22:02:05.469 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: passWord from environment.properties
+22:02:05.470 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: emailId from environment.properties
+22:02:05.470 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+22:02:05.471 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: App_Direct_URL from environment.properties
+22:02:05.472 [main] INFO  demoWebShop.Base - getProperties-->loading property: Screenshot_Archive_Days from environment.properties
+22:02:05.473 [main] INFO  demoWebShop.Base - getProperties-->loading property: Screenshot_Location from environment.properties
+22:02:09.435 [main] ERROR utilities.Log - Unable to initialize the driverorg.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 91
+Current browser version is 93.0.4577.63 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'FSOCIETY', ip: '192.168.43.248', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '16.0.1'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00EC3733+2504499]
+	Ordinal0 [0x00E5C401+2081793]
+	Ordinal0 [0x00D62628+1058344]
+	Ordinal0 [0x00D8071A+1181466]
+	Ordinal0 [0x00D7C58C+1164684]
+	Ordinal0 [0x00D79DC3+1154499]
+	Ordinal0 [0x00DA9B82+1350530]
+	Ordinal0 [0x00DA97DA+1349594]
+	Ordinal0 [0x00DA5D4B+1334603]
+	Ordinal0 [0x00D822B4+1188532]
+	Ordinal0 [0x00D83149+1192265]
+	GetHandleVerifier [0x0103FB8C+1512252]
+	GetHandleVerifier [0x010EB0DF+2214031]
+	GetHandleVerifier [0x00F44BC3+484211]
+	GetHandleVerifier [0x00F43E69+480793]
+	Ordinal0 [0x00E6218D+2105741]
+	Ordinal0 [0x00E666E8+2123496]
+	Ordinal0 [0x00E66827+2123815]
+	Ordinal0 [0x00E6FB73+2161523]
+	BaseThreadInitThunk [0x76BD6A14+36]
+	RtlInitializeExceptionChain [0x7720A9EF+143]
+	RtlInitializeExceptionChain [0x7720A9BA+90]
+
+22:02:09.469 [main] INFO  demoWebShop.Base - getProperties-->loading property: TestReport_Folder from environment.properties
+22:02:09.623 [main] INFO  keywords.CommonActionKeywords - Test Cases Passed: [ResultMap map=[]]
+22:02:09.624 [main] INFO  keywords.CommonActionKeywords - Test Cases Failed: [ResultMap map=[]]
+22:02:09.624 [main] INFO  keywords.CommonActionKeywords - *****************************************************************************************************
+22:02:09.624 [main] INFO  keywords.CommonActionKeywords - Test Case execution report available at: ./TestReportdemoWebUI_ExecutionReport05Sept21_2202.html
+22:02:09.625 [main] INFO  keywords.CommonActionKeywords - Execution completed: 2021-09-05T22:02:09.497+0530
+22:02:09.626 [main] INFO  keywords.CommonActionKeywords - *****************************************************************************************************

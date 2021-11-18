@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="***TEST RUN***">
+
+  <listeners>
+       <listener class-name="utilities.ExecutionResult" />
+  </listeners>
+  
+  <test name="registerUser">
+     <classes>
+        <class name="registerUser.S100_testRegisterUser">
+          <methods>
+              <include name="registerPageTest"/>
+          </methods>
+        </class>
+     </classes>
+      
+      
+      
+      <!packages>
+         <!package name="registerUser" />
+      <!/packages>
+  </test>
+  
+</suite>

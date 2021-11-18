@@ -1,0 +1,28 @@
+19:35:34.959 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+19:35:34.972 [main] INFO  keywords.CommonActionKeywords - *********************** Default suite Execution Started **********************
+19:35:34.993 [main] INFO  keywords.CommonActionKeywords - Wed Nov 17 19:35:33 IST 2021
+19:35:34.993 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+19:35:34.996 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_EMAIL from testdata.properties
+19:35:34.997 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_PASSWORD from testdata.properties
+19:35:35.023 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Browser from environment.properties
+19:35:35.024 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+19:35:35.025 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Implicit_Wait_Time from environment.properties
+19:35:35.026 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Explicit_Wait_Time from environment.properties
+19:35:35.028 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: userName from environment.properties
+19:35:35.029 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: passWord from environment.properties
+19:35:35.030 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: emailId from environment.properties
+19:35:35.031 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+19:35:35.033 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: App_Direct_URL from environment.properties
+19:35:35.037 [main] INFO  demoWebShop.Base - getProperties-->loading property: Screenshot_Archive_Days from environment.properties
+19:35:35.038 [main] INFO  demoWebShop.Base - getProperties-->loading property: Screenshot_Location from environment.properties
+19:35:35.119 [main] INFO  demoWebShop.Base - getProperties-->loading property: TestData_Folder from environment.properties
+19:35:35.949 [main] INFO  dataengine.TestDataProvider - *****************************************************************************************************
+19:35:35.950 [main] INFO  dataengine.TestDataProvider - Test Execution Skipped. Test Data does not exist or mismatches for the test case: registerPageTest
+19:35:35.950 [main] INFO  dataengine.TestDataProvider - *****************************************************************************************************
+19:35:35.984 [main] INFO  keywords.CommonActionKeywords - Test Cases Passed: [ResultMap map=[]]
+19:35:35.985 [main] INFO  keywords.CommonActionKeywords - Test Cases Failed: [ResultMap map=[]]
+19:35:35.985 [main] INFO  keywords.CommonActionKeywords - *****************************************************************************************************
+19:35:35.987 [main] INFO  keywords.CommonActionKeywords - Test Case execution report available at: null
+19:35:35.988 [main] INFO  keywords.CommonActionKeywords - Execution completed: 2021-11-17T19:35:35.958+0530
+19:35:35.988 [main] INFO  keywords.CommonActionKeywords - *****************************************************************************************************
+19:35:35.990 [main] INFO  demoWebShop.Base - getProperties-->loading property: TestReport_Folder from environment.properties

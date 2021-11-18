@@ -1,0 +1,17 @@
+20:09:48.765 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+20:09:48.779 [main] INFO  keywords.CommonActionKeywords - *********************** Default suite Execution Started **********************
+20:09:48.801 [main] INFO  keywords.CommonActionKeywords - Sun Aug 29 20:09:47 IST 2021
+20:09:48.802 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+20:09:48.804 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_EMAIL from testdata.properties
+20:09:48.805 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_PASSWORD from testdata.properties
+20:09:48.818 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Browser from environment.properties
+20:09:48.820 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+20:09:48.821 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Implicit_Wait_Time from environment.properties
+20:09:48.823 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Explicit_Wait_Time from environment.properties
+20:09:48.824 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: userName from environment.properties
+20:09:48.825 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: passWord from environment.properties
+20:09:48.826 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: emailId from environment.properties
+20:09:48.827 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+20:09:48.828 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: App_Direct_URL from environment.properties
+20:09:48.830 [main] INFO  demoWebShop.Base - getProperties-->loading property: Screenshot_Archive_Days from environment.properties
+20:09:48.832 [main] INFO  demoWebShop.Base - getProperties-->loading property: Screenshot_Location from environment.properties

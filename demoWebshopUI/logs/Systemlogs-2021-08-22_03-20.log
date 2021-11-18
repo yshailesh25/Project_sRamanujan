@@ -1,0 +1,12 @@
+15:20:26.321 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+15:20:26.335 [main] INFO  keywords.CommonActionKeywords - *********************** Default suite Execution Started **********************
+15:20:26.357 [main] INFO  keywords.CommonActionKeywords - Sun Aug 22 15:20:25 IST 2021
+15:20:26.357 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+15:20:26.360 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_EMAIL from testdata.properties
+15:20:26.361 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_PASSWORD from testdata.properties
+15:20:26.362 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Browser from environment.properties
+15:20:26.363 [main] ERROR demoWebShop.Base - Unable to load Properties file
+15:20:26.363 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+15:20:26.364 [main] ERROR demoWebShop.Base - Unable to load Properties file
+15:20:26.365 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Implicit_Wait_Time from environment.properties
+15:20:26.365 [main] ERROR demoWebShop.Base - Unable to load Properties file

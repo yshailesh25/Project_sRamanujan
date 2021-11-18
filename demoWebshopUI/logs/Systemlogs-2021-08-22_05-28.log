@@ -1,0 +1,31 @@
+17:28:24.096 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+17:28:24.106 [main] INFO  keywords.CommonActionKeywords - *********************** Default suite Execution Started **********************
+17:28:24.126 [main] INFO  keywords.CommonActionKeywords - Sun Aug 22 17:28:22 IST 2021
+17:28:24.127 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+17:28:24.131 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_EMAIL from testdata.properties
+17:28:24.132 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_PASSWORD from testdata.properties
+17:28:24.133 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Browser from environment.properties
+17:28:24.134 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+17:28:24.135 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Implicit_Wait_Time from environment.properties
+17:28:24.136 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Explicit_Wait_Time from environment.properties
+17:28:24.137 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: userName from environment.properties
+17:28:24.138 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: passWord from environment.properties
+17:28:24.139 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: emailId from environment.properties
+17:28:24.140 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+17:28:24.141 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: App_Direct_URL from environment.properties
+17:28:24.142 [main] INFO  demoWebShop.Base - getProperties-->loading property: Screenshot_Archive_Days from environment.properties
+17:28:24.143 [main] INFO  demoWebShop.Base - getProperties-->loading property: Screenshot_Location from environment.properties
+17:28:27.234 [main] INFO  keywords.CommonActionKeywords - Driver initiaized successfully
+17:28:31.164 [main] INFO  keywords.CommonActionKeywords - Logging with user name: user1lname@gmail.com
+17:28:36.407 [main] INFO  utilities.Log - Application launched successfully
+17:28:36.410 [main] INFO  demoWebShop.Base - getProperties-->loading property: TestReport_Folder from environment.properties
+17:28:36.742 [main] INFO  demoWebShop.Base - getProperties-->loading property: Environment from environment.properties
+17:28:36.761 [main] INFO  keywords.CommonActionKeywords - Closing all the browsers
+17:28:37.512 [main] INFO  utilities.Log - Application closed successfully
+17:28:37.513 [main] ERROR utilities.Log - closeBrowserError closing the browser.-->java.lang.NullPointerException: Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, String)" because the return value of "utilities.ExtentTestManager.getTest()" is null
+17:28:37.597 [main] INFO  keywords.CommonActionKeywords - Test Cases Passed: [ResultMap map=[]]
+17:28:37.597 [main] INFO  keywords.CommonActionKeywords - Test Cases Failed: [ResultMap map=[[TestResult name=registerPageTest status=FAILURE method=S100_testRegisterUser.registerPageTest()[pri:0, instance:registerUser.S100_testRegisterUser@4e28bdd1] output={null}]]]
+17:28:37.598 [main] INFO  keywords.CommonActionKeywords - *****************************************************************************************************
+17:28:37.599 [main] INFO  keywords.CommonActionKeywords - Test Case execution report available at: ./TestReportdemoWebUI_ExecutionReport22Aug21_1728.html
+17:28:37.599 [main] INFO  keywords.CommonActionKeywords - Execution completed: 2021-08-22T17:28:37.526+0530
+17:28:37.600 [main] INFO  keywords.CommonActionKeywords - *****************************************************************************************************

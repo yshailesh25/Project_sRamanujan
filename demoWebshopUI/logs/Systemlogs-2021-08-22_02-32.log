@@ -1,0 +1,8 @@
+14:32:07.862 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+14:32:07.883 [main] INFO  keywords.CommonActionKeywords - *********************** Default suite Execution Started **********************
+14:32:07.936 [main] INFO  keywords.CommonActionKeywords - Sun Aug 22 14:32:06 IST 2021
+14:32:07.936 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+14:32:07.945 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_EMAIL from testdata.properties
+14:32:07.946 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_PASSWORD from testdata.properties
+14:32:07.948 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Browser from environment.properties
+14:32:07.948 [main] FATAL demoWebShop.Base - Issue reading environment.properties file. Please check. -->

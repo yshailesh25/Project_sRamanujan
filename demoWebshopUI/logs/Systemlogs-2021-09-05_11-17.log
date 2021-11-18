@@ -1,0 +1,25 @@
+23:17:54.587 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+23:17:54.601 [main] INFO  keywords.CommonActionKeywords - *********************** Default suite Execution Started **********************
+23:17:54.621 [main] INFO  keywords.CommonActionKeywords - Sun Sep 05 23:17:53 IST 2021
+23:17:54.621 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+23:17:54.625 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_EMAIL from testdata.properties
+23:17:54.626 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_PASSWORD from testdata.properties
+23:17:54.634 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Browser from environment.properties
+23:17:54.635 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+23:17:54.636 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Implicit_Wait_Time from environment.properties
+23:17:54.637 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Explicit_Wait_Time from environment.properties
+23:17:54.638 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: userName from environment.properties
+23:17:54.639 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: passWord from environment.properties
+23:17:54.640 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: emailId from environment.properties
+23:17:54.641 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+23:17:54.642 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: App_Direct_URL from environment.properties
+23:17:54.644 [main] INFO  demoWebShop.Base - getProperties-->loading property: Screenshot_Archive_Days from environment.properties
+23:17:54.645 [main] INFO  demoWebShop.Base - getProperties-->loading property: Screenshot_Location from environment.properties
+23:19:58.633 [main] INFO  keywords.CommonActionKeywords - Driver initiaized successfully
+23:21:00.176 [main] INFO  keywords.CommonActionKeywords - Logging with user name: user1lname@gmail.com
+23:21:10.645 [main] INFO  utilities.Log - Application launched successfully
+23:21:10.663 [main] INFO  demoWebShop.Base - getProperties-->loading property: TestReport_Folder from environment.properties
+23:21:11.713 [main] INFO  demoWebShop.Base - getProperties-->loading property: Environment from environment.properties
+23:21:30.341 [main] INFO  keywords.CommonActionKeywords - Closing all the browsers
+23:21:31.082 [main] INFO  utilities.Log - Application closed successfully
+23:21:31.100 [main] ERROR utilities.Log - closeBrowserError closing the browser.--> java.lang.NullPointerException: Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, String)" because the return value of "utilities.ExtentTestManager.getTest()" is null

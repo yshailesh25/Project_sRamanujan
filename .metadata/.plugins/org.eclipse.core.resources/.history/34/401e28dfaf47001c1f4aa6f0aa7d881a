@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="***TEST RUN***">
+
+  <listeners>
+       <listener class-name="utilities.ExecutionResult" />
+  </listeners>
+  
+  <test name="registerUser">
+      <packages>
+         <package name="registerUser" />
+      </packages>
+  </test>
+  
+</suite>

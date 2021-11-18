@@ -1,0 +1,30 @@
+package registerUser;
+
+import org.testng.ITestContext;
+import org.testng.ITestNGMethod;
+
+import dataengine.DataEngine;
+
+public class debug {
+	private static ITestNGMethod result;
+	private static ITestContext context;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		debug s1= new debug();
+		s1.dataEngine( ITestNGMethod result, ITestContext context);
+		
+
+	}
+	
+	public Object[][] dataEngine(ITestNGMethod result, ITestContext context) {
+		DataEngine generic = new DataEngine();
+		int paramCount = result.getConstructorOrMethod().getMethod().getParameterCount();
+		String moduleName = context.getCurrentXmlTest().getName();
+		String testCaseName = result.getMethodName();
+		Object[][] data = generic.getTestData(paramCount, moduleName, testCaseName);
+		
+		return data;
+	}
+
+}

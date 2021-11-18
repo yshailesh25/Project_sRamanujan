@@ -1,0 +1,16 @@
+17:20:46.784 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+17:20:46.845 [main] INFO  keywords.CommonActionKeywords - *********************** Default suite Execution Started **********************
+17:20:46.865 [main] INFO  keywords.CommonActionKeywords - Sun Aug 22 17:20:45 IST 2021
+17:20:46.866 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+17:20:46.869 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_EMAIL from testdata.properties
+17:20:46.870 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_PASSWORD from testdata.properties
+17:20:46.879 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Browser from environment.properties
+17:20:46.882 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+17:20:46.883 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Implicit_Wait_Time from environment.properties
+17:20:46.884 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Explicit_Wait_Time from environment.properties
+17:20:46.886 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: userName from environment.properties
+17:20:46.887 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: passWord from environment.properties
+17:20:46.887 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: emailId from environment.properties
+17:20:46.888 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+17:20:46.889 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: App_Direct_URL from environment.properties
+17:20:46.890 [main] INFO  demoWebShop.Base - getProperties-->loading property: Screenshot_Archive_Days from environment.properties

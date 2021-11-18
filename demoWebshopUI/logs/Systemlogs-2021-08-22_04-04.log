@@ -1,0 +1,24 @@
+16:04:58.589 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+16:04:58.601 [main] INFO  keywords.CommonActionKeywords - *********************** Default suite Execution Started **********************
+16:04:58.621 [main] INFO  keywords.CommonActionKeywords - Sun Aug 22 16:04:57 IST 2021
+16:04:58.621 [main] INFO  keywords.CommonActionKeywords - *******************************************************************************************************
+16:04:58.625 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_EMAIL from testdata.properties
+16:04:58.626 [main] INFO  demoWebShop.Base - getTestDataProperties-->Loading property: USER_PASSWORD from testdata.properties
+16:04:58.628 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Browser from environment.properties
+16:04:58.629 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+16:04:58.630 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Implicit_Wait_Time from environment.properties
+16:04:58.631 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: Explicit_Wait_Time from environment.properties
+16:04:58.631 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: userName from environment.properties
+16:04:58.632 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: passWord from environment.properties
+16:04:58.633 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: emailId from environment.properties
+16:04:58.634 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: URL_IN_USE from environment.properties
+16:04:58.635 [main] INFO  demoWebShop.Base - getEnvProperties-->loading property: App_Direct_URL from environment.properties
+16:04:58.636 [main] INFO  demoWebShop.Base - getProperties-->loading property: Screenshot_Archive_Days from environment.properties
+16:04:58.706 [main] ERROR utilities.Log - Unable to initialize the driverjava.lang.NullPointerException
+16:04:58.712 [main] INFO  demoWebShop.Base - getProperties-->loading property: TestReport_Folder from environment.properties
+16:04:58.815 [main] INFO  keywords.CommonActionKeywords - Test Cases Passed: [ResultMap map=[]]
+16:04:58.815 [main] INFO  keywords.CommonActionKeywords - Test Cases Failed: [ResultMap map=[]]
+16:04:58.816 [main] INFO  keywords.CommonActionKeywords - *****************************************************************************************************
+16:04:58.816 [main] INFO  keywords.CommonActionKeywords - Test Case execution report available at: null
+16:04:58.817 [main] INFO  keywords.CommonActionKeywords - Execution completed: 2021-08-22T16:04:58.737+0530
+16:04:58.818 [main] INFO  keywords.CommonActionKeywords - *****************************************************************************************************
